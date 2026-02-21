@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx01.mail.icloud.com
-mx: mx02.mail.icloud.com
+mx: mail.anonaddy.me
+mx: mail2.anonaddy.me
 max_age: 604800
